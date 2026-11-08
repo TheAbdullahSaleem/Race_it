@@ -10,7 +10,7 @@ transform = Transform3D(-0.8660254, -0.43301278, 0.25, 0, 0.49999997, 0.86602545
 shadow_enabled = true
 
 [node name="VehicleBody3D" parent="." unique_id=674772930 instance=ExtResource("1_jjgbg")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.074575424, 31.924757, -37.775017)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.074575424, 0.67824554, -9.234245)
 
 [node name="CSGBox3D" type="CSGBox3D" parent="." unique_id=1046419904]
 transform = Transform3D(1000, 0, 0, 0, 0.5, 0, 0, 0, 1000, 0, -0.74274045, 0)
