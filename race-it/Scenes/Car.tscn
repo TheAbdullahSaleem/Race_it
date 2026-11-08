@@ -1154,7 +1154,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0028381348, 0.5698242, -0.0
 shape = SubResource("BoxShape3D_y1q5r")
 
 [node name="Camera3D" type="Camera3D" parent="." unique_id=46845140]
-transform = Transform3D(-0.9727431, 0, 0.23188558, 0.1074894, 0.88607335, 0.45091018, -0.20546764, 0.463545, -0.8619217, 0.30203652, 1.6840698, -3.1895018)
+transform = Transform3D(-1, 0, -8.742278e-08, -5.7249743e-08, 0.7557496, 0.6548606, 6.606973e-08, 0.6548606, -0.7557496, 0.18739343, 1.9437486, -3.1667857)
 current = true
 
 [connection signal="body_entered" from="." to="." method="_on_body_entered"]
